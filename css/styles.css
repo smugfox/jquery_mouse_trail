@@ -1,0 +1,27 @@
+h1{
+    text-align:center;
+    color:#E6E65C;
+}
+
+body {
+    background-image:url(../img/stars.gif);
+    background-color:#ccc;
+}
+
+
+#container {
+	padding-top:2px;
+	width: 480px;
+	height:600px;
+	margin: 0 auto;
+	
+}
+
+.cell {
+    height: 25px;
+    width: 25px;
+    border: solid 1px green;
+    float: left;
+    background:#000000;
+}
+
